@@ -2,3 +2,9 @@ line 1
 line 2
 
 file5 line5
+
+<<<<<<< HEAD
+file5 beforre merging with bugfix
+=======
+file5 bugfix
+>>>>>>> bugfix
