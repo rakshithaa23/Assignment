@@ -2,3 +2,5 @@ line 1
 line 2
 
 file1 lin1
+
+file1 bugfix
